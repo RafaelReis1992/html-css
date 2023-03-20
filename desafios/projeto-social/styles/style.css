@@ -42,13 +42,15 @@ main {
 }
 
 #redes-sociais {
-    text-align: right;
+    position: relative;
+    top: 614px;
+    left: 215px;
 }
 
 #redes-sociais img {
-    width: 50px;
-    border-radius: 50%;
-    margin: 10px;
+    width: 44px;
+    border-radius: 10px;
+    margin: 7px;
     box-shadow: 2px 2px 5px black;
 }
 
